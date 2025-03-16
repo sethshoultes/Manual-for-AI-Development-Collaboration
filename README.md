@@ -1,4 +1,4 @@
-# Comprehensive Manual for AI Development Collaboration
+# Manual for AI Development Collaboration
 
 ## Table of Contents
 
